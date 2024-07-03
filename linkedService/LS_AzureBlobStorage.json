@@ -1,0 +1,11 @@
+{
+	"name": "LS_AzureBlobStorage",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"serviceEndpoint": "https://stcovid19proj.blob.core.windows.net/",
+			"accountKind": "StorageV2"
+		}
+	}
+}
