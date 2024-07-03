@@ -12,7 +12,7 @@
 				"type": "AzureBlobFSLocation"
 			},
 			"columnDelimiter": "\t",
-			"compressionCodec": "TarGZip",
+			"compressionCodec": "gzip",
 			"compressionLevel": "Fastest",
 			"escapeChar": "\\",
 			"firstRowAsHeader": true,
