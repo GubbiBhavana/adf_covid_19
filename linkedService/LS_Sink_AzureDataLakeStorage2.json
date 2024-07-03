@@ -1,0 +1,10 @@
+{
+	"name": "LS_Sink_AzureDataLakeStorage2",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://adlscovid19proj.dfs.core.windows.net/"
+		}
+	}
+}
