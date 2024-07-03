@@ -1,0 +1,9 @@
+{
+	"name": "adf-covid-19-proj",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3b9df897-22f0-48d3-af64-b254f0688440",
+		"tenantId": "4e349cce-988b-4ad2-b68e-209e4fa6ca7a"
+	}
+}
