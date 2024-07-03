@@ -35,10 +35,11 @@
 						"formatSettings": {
 							"type": "DelimitedTextWriteSettings",
 							"quoteAllText": true,
-							"fileExtension": ".tsv"
+							"fileExtension": ".csv"
 						}
 					},
 					"enableStaging": false,
+					"validateDataConsistency": true,
 					"translator": {
 						"type": "TabularTranslator",
 						"typeConversion": true,
