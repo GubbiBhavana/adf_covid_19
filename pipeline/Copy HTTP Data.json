@@ -85,7 +85,10 @@
 			"file_list": {
 				"type": "Array",
 				"defaultValue": [
-					"['cases_deaths.csv','hospital_admissions.csv','testing.csv','country_response.csv']"
+					"cases_deaths.csv",
+					"hospital_admissions.csv",
+					"testing.csv",
+					"country_response.csv"
 				]
 			}
 		},
