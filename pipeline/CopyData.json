@@ -61,6 +61,21 @@
 						"type": "DatasetReference"
 					}
 				]
+			},
+			{
+				"name": "check file exists",
+				"type": "Validation",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"dataset": {
+						"referenceName": "DS_Source_Storage",
+						"type": "DatasetReference"
+					},
+					"timeout": "0.00:01:00",
+					"sleep": 10,
+					"minimumSize": 1024
+				}
 			}
 		],
 		"annotations": []
