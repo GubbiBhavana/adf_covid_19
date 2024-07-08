@@ -1,5 +1,5 @@
 {
-	"name": "DS_doucr_HTTP",
+	"name": "DS_source_HTTP",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "LS_HttpServer",
